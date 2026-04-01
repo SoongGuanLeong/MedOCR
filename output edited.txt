@@ -1,0 +1,308 @@
+--- Checking: E:/Desktop/medical_report_ocr/docs/1.jpg ---
+[2026/04/01 11:45:37] ppocr DEBUG: dt_boxes num : 114, elapse : 0.6281170845031738
+[2026/04/01 11:45:37] ppocr DEBUG: cls num  : 114, elapse : 0.21745514869689941
+[2026/04/01 11:45:37] ppocr DEBUG: rec_res num  : 114, elapse : 0.3697075843811035
+Age: 58Y | Confidence: 0.99
+Sex: Female | Confidence: 0.88
+Result | Confidence: 1.00
+Unit | Confidence: 0.99
+Reference range | Confidence: 0.96
+Gamma-GT | Confidence: 0.98
+13 U/L | Confidence: 0.95
+7-42 | Confidence: 0.87
+-- Urine FEME(Urinalysis) -- | Confidence: 0.94
+Appearance,urine | Confidence: 0.88
+Yellow | Confidence: 1.00
+Yellow/Pale Yellow | Confidence: 0.96
+Specific gravity,urine | Confidence: 0.92
+1.017 | Confidence: 1.00
+1.002-1.028 | Confidence: 0.97
+pH,urine | Confidence: 0.92
+5.5 | Confidence: 0.99
+4.8-7.5 | Confidence: 0.99
+Protein,urine | Confidence: 0.94
+Negative | Confidence: 1.00
+Negative | Confidence: 1.00
+Glucose,urine | Confidence: 0.94
+Normal | Confidence: 1.00
+Normal | Confidence: 1.00
+Ketone,urine | Confidence: 0.91
+Negative | Confidence: 1.00
+Negative | Confidence: 1.00
+Bilirubin screen urine | Confidence: 0.88
+Negative | Confidence: 1.00
+Negative | Confidence: 0.99
+Urobilinogen screen, urine | Confidence: 0.92
+Normal | Confidence: 1.00
+Normal | Confidence: 1.00
+Nitrite,urine | Confidence: 0.89
+Negative | Confidence: 1.00
+Negative | Confidence: 1.00
+Leukocytes, urine | Confidence: 0.91
++++ | Confidence: 0.98
+Negative | Confidence: 1.00
+Blood,urine | Confidence: 0.94
+++ | Confidence: 0.94
+Negative | Confidence: 1.00
+-- Microscopic examination, urine -- | Confidence: 0.95
+White Blood Cell,urine | Confidence: 0.91
+10/hpf | Confidence: 0.99
+0-5 | Confidence: 0.95
+Red Blood Cell,urine | Confidence: 0.95
+Normal and Crenated RBCs seen | Confidence: 0.96
+3 /hpf | Confidence: 0.91
+0-5 | Confidence: 0.98
+Epithelial cell,urine | Confidence: 0.92
++ | Confidence: 0.98
+Occasional | Confidence: 1.00
+Cast,urine | Confidence: 0.90
+Nil | Confidence: 0.77
+Nil | Confidence: 1.00
+Crystal, urine | Confidence: 0.90
+Nil | Confidence: 0.99
+Nil | Confidence: 0.99
+Bacteria,urine | Confidence: 0.94
++ | Confidence: 0.99
+Nil | Confidence: 1.00
+Others, urine | Confidence: 0.90
+Nil | Confidence: 1.00
+Validated by Ruziana Idris,Senior Lab Scientist (Hematology) LabISC 30/03/26 12:03:04 PM | Confidence: 0.91
+Validated by Ruziana Idris,Senior Lab Sclentist (Hematology-ESR) LabISC 30/03/26 12:28:21 PM | Confidence: 0.92
+Validated by MUHAMMAD IKMAL BIN MOHD NIZAR,Lab Scientist (Urinalysis) LabISC 30/03/26 12:31:18 PM | Confidence: 0.93
+Validated by Shakira Bt Hashim,Lab Scientist (Biochemistry) LabISC 30-03-26 06:52:34 PM | Confidence: 0.92
+Validated by Shakira Bt Hashim,Lab Scientist (Biochemistry) LabISC 30-03-26 09:01:18 PM | Confidence: 0.90
+Consultant Pathologist:- | Confidence: 0.95
+Dr.Aletza Mohd Ismail;MB BCh BAO (Belfast), MPath (UM),Consultant Chemical Pathologist | Confidence: 0.91
+Dr.Muhammad Nazri Bin Aziz; MD (USM), MPath.Med.Microbiology (UKM),Consultant Medical Microbiologist | Confidence: 0.88
+Dr.Norris Bin Naim; MBBCh (Wales),MPath (UKM), Consultant Haematologist/Transfusion Specialist | Confidence: 0.91
+Page 4 of 4 | Confidence: 0.94
+Printed by Shakira Bt Hashim on 30-03-26 09.01:30 PM | Confidence: 0.89
+Address:- 26, Jalan Raja Dihilir, 30350 Ipoh, Perak Tel: 05-2418777 Fax: 05-2416777 | Confidence: 0.97
+
+--- Checking: E:/Desktop/medical_report_ocr/docs/2.jpg ---
+[2026/04/01 11:45:38] ppocr DEBUG: dt_boxes num : 125, elapse : 0.0757761001586914
+[2026/04/01 11:45:38] ppocr DEBUG: cls num  : 125, elapse : 0.21828818321228027
+[2026/04/01 11:45:38] ppocr DEBUG: rec_res num  : 125, elapse : 0.28503918647766113
+Result | Confidence: 0.99
+Unit | Confidence: 1.00
+Reference range | Confidence: 0.99
+Phosphate | Confidence: 1.00
+1.20 mmol/L | Confidence: 0.92
+0.78-1.50 | Confidence: 0.99
+-Lipid profile- | Confidence: 0.94
+Total cholesterol | Confidence: 0.98
+4.4 mmol/L | Confidence: 0.98
+<5.2 | Confidence: 0.93
+Triglycerides | Confidence: 0.99
+1.44 mmol/L | Confidence: 0.93
+<1.71 | Confidence: 0.95
+HDL cholesterol | Confidence: 0.98
+1.41 mmol/L | Confidence: 0.96
+>1.2 | Confidence: 0.99
+Non HDL cholesterol | Confidence: 0.97
+3.0 mmol/L | Confidence: 0.89
+refer table below | Confidence: 0.97
+LDL cholesterol | Confidence: 0.98
+2.3 mmol/L | Confidence: 0.92
+refer table below | Confidence: 0.97
+Chol/HDL Chol | Confidence: 0.98
+3.1 | Confidence: 0.99
+up to 4.0 | Confidence: 0.94
+Target LDL-Chol and Non-HDL-Chol Based on Patient Cardiovascular (CV) Risk: | Confidence: 0.96
+Global Risk | Confidence: 0.95
+Target LDL-Chol Level (mmol/L) | Confidence: 0.96
+Target Non-HDL-Chol (mmol/L) | Confidence: 0.97
+Low CV Risk | Confidence: 0.96
+<3.0 | Confidence: 0.97
+<3.8 | Confidence: 0.99
+Morderate CV Risk | Confidence: 0.98
+<2.6 | Confidence: 0.93
+<3.4 | Confidence: 0.94
+High CV Risk | Confidence: 0.96
+<=1.8 and reduction of >50% from baseline | Confidence: 0.97
+<=2.6 and reduction of >50% from baseline | Confidence: 0.95
+Very High CV Risk | Confidence: 0.92
+<=1.4 and reduction of >50% from baseline | Confidence: 0.97
+<=2.2 and reduction of >50% from baseline | Confidence: 0.95
+Global Cardiovascular Risk Assessement. | Confidence: 0.96
+Low and Moderate CV Risk : Based on Framingham General CVD Risk Score. | Confidence: 0.94
+High CV Risk | Confidence: 0.93
+:>20% 10-year CVD risk, diabetes without target organ damage, CKD with GFR 30-60mL/min/1.73m^3. | Confidence: 0.93
+Very High CV Risk | Confidence: 0.94
+Established CVD, diabetes with proteinurea or with a major risk factor such as smoking, hypertension,or dyslipidemia, CKD with GFR<30 mL/min/1.73m^3 but not dialysis dependent.| Confidence: 0.94
+Reference: Clinical Practice Guidelines, Management of Dyslipidemia (2023), 6th Edition, MOH Malaysia | Confidence: 0.89
+--Liver function screen-- | Confidence: 0.96
+Total protein | Confidence: 0.98
+78 g/L | Confidence: 0.98
+63-83 | Confidence: 0.99
+Albumin | Confidence: 1.00
+46 g/L | Confidence: 0.96
+35-50 | Confidence: 0.99
+Globulin | Confidence: 1.00
+32g/L | Confidence: 0.99
+25-40 | Confidence: 0.99
+A/G ratio | Confidence: 0.99
+1.4 | Confidence: 1.00
+1.0-2.0 | Confidence: 0.99
+Total bilirubin | Confidence: 0.98
+10.0 umol/L | Confidence: 0.97
+2.0-28.0 | Confidence: 0.99
+Direct bilirubin | Confidence: 0.97
+4.9 umol/L | Confidence: 0.96
+<6.8 | Confidence: 0.93
+Indirect bilirubin | Confidence: 0.98
+5.1 umol/L | Confidence: 0.97
+<20.5 | Confidence: 0.91
+SGOT/AST | Confidence: 0.99
+21 U/L | Confidence: 0.94
+7-44 | Confidence: 0.98
+SGPT/ALT | Confidence: 0.98
+17 U/L | Confidence: 0.91
+7-48 | Confidence: 0.98
+Alkaline phosphatase | Confidence: 0.99
+65 U/L | Confidence: 0.98
+32-104 | Confidence: 0.99
+Page 3 of 4 | Confidence: 0.91
+Printed by Shakira Bt Hashim on 30-03-26 09:01:30 PM | Confidence: 0.89
+Address-26, Jalan Raja Dihilir, 30350 Ipoh, Perak Tel: 05-2418777 Fax: 05-2416777 | Confidence: 0.96
+
+--- Checking: E:/Desktop/medical_report_ocr/docs/3.jpg ---
+[2026/04/01 11:45:39] ppocr DEBUG: dt_boxes num : 128, elapse : 0.07459473609924316
+[2026/04/01 11:45:39] ppocr DEBUG: cls num  : 128, elapse : 0.18465423583984375
+[2026/04/01 11:45:39] ppocr DEBUG: rec_res num  : 128, elapse : 0.29007697105407715
+Result | Confidence: 1.00
+Unit | Confidence: 1.00
+Reference range | Confidence: 0.99
+GENERAL HEALTH SCREEN (GP59H) | Confidence: 0.95
+- Haematology - | Confidence: 0.91
+Haemoglobin | Confidence: 1.00
+13.8 g/dL | Confidence: 0.94
+11.5-16.0 | Confidence: 0.99
+Red cell count | Confidence: 0.99
+4.6 10^12/L | Confidence: 0.88
+4.0-5.2 | Confidence: 0.99
+Haematocrit(PCV) | Confidence: 0.95
+43% | Confidence: 1.00
+36-46 | Confidence: 1.00
+MCV | Confidence: 0.99
+92 fL | Confidence: 0.95
+76-103 | Confidence: 1.00
+MCH | Confidence: 1.00
+30 pg | Confidence: 0.92
+26-34 | Confidence: 0.99
+MCHC | Confidence: 0.99
+32 g/dL | Confidence: 0.93
+31-36 | Confidence: 1.00
+RDW | Confidence: 1.00
+12.2% | Confidence: 0.95
+8.0-14.6 | Confidence: 0.99
+Platelet count | Confidence: 0.98
+229 10^3/uL | Confidence: 0.89
+150-450 | Confidence: 0.99
+MPV | Confidence: 1.00
+11.2 fL | Confidence: 0.90
+5.8-12.0 | Confidence: 0.99
+ESR | Confidence: 0.99
+15 mm/hr | Confidence: 1.00
+0-30 | Confidence: 0.99
+White blood cell count | Confidence: 0.97
+7.3 10^3/uL | Confidence: 0.87
+4.3-10.5 | Confidence: 0.99
+-- White blood cell differential count  | Confidence: 0.94
+Neutrophil count | Confidence: 0.99
+4.28 10^3/uL | Confidence: 0.89
+2.00-8.00 | Confidence: 0.99
+Lymphocyte count | Confidence: 0.99
+2.41 10^3/uL | Confidence: 0.92
+1.00-4.00 | Confidence: 0.99
+Eosinophil count | Confidence: 0.96
+0.16 10^3/uL | Confidence: 0.92
+<0.50 | Confidence: 0.93
+Monocyte count | Confidence: 0.99
+0.46 10^3/uL | Confidence: 0.92
+0.20-1.00 | Confidence: 0.99
+Basophil count | Confidence: 0.99
+0.03 10^3/uL | Confidence: 0.97
+<0.10 | Confidence: 0.97
+Neutrophil | Confidence: 1.00
+58.3% | Confidence: 1.00
+40-75 | Confidence: 0.99
+Lymphocyte | Confidence: 1.00
+32.8 % | Confidence: 0.91
+20-45 | Confidence: 0.99
+Eosinophil | Confidence: 1.00
+2.2% | Confidence: 0.99
+0-6.0 | Confidence: 0.99
+Monocyte | Confidence: 0.99
+6.3% | Confidence: 0.88
+1-11 | Confidence: 0.93
+Basophil | Confidence: 1.00
+0.4% | Confidence: 1.00
+0-2 | Confidence: 0.93
+--Biochemistry-- | Confidence: 0.95
+Diabetes mellitus screen -- | Confidence: 0.93
+Glucose | Confidence: 0.99
+5.1 mmol/L | Confidence: 0.93
+Fasting blood glucose interpretation: | Confidence: 0.97
+Normal: 3.9-6.0 mmol/L(70 - 109mg/dL) | Confidence: 0.94
+Impaired Fasting Glucose(Pre-diabetes): 6.1-6.9 mmol/L (110-125 mg/dL) | Confidence: 0.93
+*Recommend Oral Glucose Tolerance Test (OGTT) for glucose level 6.1-6.9 mmol/L | Confidence: 0.93
+**Individual with pre-diabetes is more likely to progress to Type 2 Diabetes Mellitus and associated with a higher lifetime risk for development of cardiovascular complication. | Confidence: 0.82
+Type 2 Diabetes Mellitus:>=7.0 mmol/L (126 mg/dL) | Confidence: 0.92
+Page 1of4 | Confidence: 0.91
+Printed by Shahira Bt Hashim on 30-03-26 09:01:30 PM | Confidence: 0.81
+Addres-26,Jalan Raja Dihilir, 30350 Ipoh, Perak Tel:05-2418777 Fax:05-2416777 | Confidence: 0.87
+
+--- Checking: E:/Desktop/medical_report_ocr/docs/4.jpg ---
+[2026/04/01 11:45:40] ppocr DEBUG: dt_boxes num : 82, elapse : 0.06640124320983887
+[2026/04/01 11:45:40] ppocr DEBUG: cls num  : 82, elapse : 0.13260817527770996
+[2026/04/01 11:45:40] ppocr DEBUG: rec_res num  : 82, elapse : 0.26828694343566895
+Result | Confidence: 0.99
+Unit | Confidence: 1.00
+Reference range | Confidence: 0.96
+Random blood glucose interpretation: | Confidence: 0.99
+-Normal: <7.8 mmol/L (<140 mg/dL) | Confidence: 0.94
+-Indeterminate:7.8-11.0 (140-199mg/dL) | Confidence: 0.93
+Recommend Oral Glucose Tolerance Test(OGTT) for glucose level 7.8-11.0 mmol/L | Confidence: 0.90
+-Type 2 Diabetes Mellitus:>=11.1 mmol/L (200 mg/dL) | Confidence: 0.91
+Reference: Clinical Practice Guideline for The Management of Type-2 Diabetes Mellinus (2020), 6th Edition, MOH Malaysia | Confidence: 0.84
+Renal function and bone metabolism screen- | Confidence: 0.96
+Uric acid | Confidence: 0.95
+354 umol/L | Confidence: 0.96
+143-405 | Confidence: 0.99
+Creatinine | Confidence: 1.00
+62 umol/L | Confidence: 0.98
+45-84 | Confidence: 0.98
+Estimated glomerular filtration rate (eGFR) | Confidence: 0.94
+95.1 mL/min/1.73m^2 | Confidence: 0.95
+
+The eGFR (estimated Glomerular Filtration Rate is a calculated estimation of the actual glomerular fliration rate for patients with chronic kidney disease, based on serum creatinine level, age, sex and race. | Confidence: 0.90
+Chronic Kidney Disease Stratification | Confidence: 0.91
+Stage | eGFR | Description | Confidence: 0.96
+1 | >90 | Normal GFR with other evidence of chronic kidney damage**for more than 3 months | Confidence: 0.94
+2* | 60-89 | Mild impairment with other evidence of chronic kidney damage** | Confidence: 0.94
+3* | 30-59 | Moderate Impairment | Confidence: 0.94
+4* | 15-29 | Severe Impairment | Confidence: 0.96
+5* | <15 | End-stage renal failure or established renal failure or on dialysis | Confidence: 0.94
+Note: | Confidence: 0.98
+* Kidney function should also be checked during concurrent illness and perioperatively in all patients with stage 2-5 CKD. A change in GFR of <2mL/min/1.73m^2 over a period of 6 months or more is defined as stable CKD, while a change of >2mL/min/1.73 m2 is defined as progressive CKD.| Confidence: 0.92
+**Other evidence of chronic kidney damage may comprise persistent microalbuminuria.proteinuria,or hematuria after exclusion of other causes) structural abnormalities of the kidneys demonstrated on ultrasound or other radiological test or biopsy-proven chronic glomerulonephritis. | Confidence: 0.87
+Urea | Confidence: 1.00
+4.2mmol/L | Confidence: 0.93
+2.0-6.8 | Confidence: 0.94
+Sodium | Confidence: 0.98
+140 mmol/L | Confidence: 0.92
+135-155 | Confidence: 0.99
+Potassium | Confidence: 1.00
+4.0mmol/L | Confidence: 0.98
+3.5-5.5 | Confidence: 0.91
+Chloride | Confidence: 1.00
+100mmol/L | Confidence: 0.99
+95-111 | Confidence: 0.99
+Calcium | Confidence: 0.99
+2.37 mmol/L | Confidence: 0.90
+2.09-2.55 | Confidence: 0.95
+Page 2 of 4 | Confidence: 0.89
+Printed by Shahira B Hashim on 30-03-26 09:01:30 PM | Confidence: 0.74
+Address - 26, Jalan Raja Dihlir, 30350 Ipoh, Perak Tel: 05-2418777 Fax: 05-416777 | Confidence: 0.77
+03/31/2026 14:13 | Confidence: 0.98

@@ -1,0 +1,7 @@
+[project]
+name = "med-ocr"
+version = "0.1.0"
+description = "OCR demo for medical reports using PaddleOCR"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
